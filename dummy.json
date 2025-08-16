@@ -1,0 +1,28 @@
+{
+    "courses":[
+    {
+      "name": "HTML",
+      "sana": 300,
+      "rating": 5,
+      "img": "http://localhost:3000/assets/html.jpg"
+    },
+    {
+      "name": "CSS",
+      "sana": 400,
+      "rating": 5,
+      "img": "http://localhost:3000/assets/CSS.jpg"
+    },
+    {
+      "name": "JS",
+      "sana": 200,
+      "rating": 5,
+      "img":"http://localhost:3000/assets/JS.jpg"
+    },
+    {
+      "name": "react",
+      "sana": 800,
+      "rating": 5,
+      "img": "http://localhost:3000/assets/JS.jpg"
+    }
+]
+}
